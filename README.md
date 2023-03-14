@@ -8,6 +8,8 @@
 
 ✨ [My latest project](https://github.com/artemvandalovski/periodic-table) ✨
 
+Here is the [Indie game studio](https://misoshiru-studio.itch.io/) I am part of
+
 <!--
 **artemvandalovski/artemvandalovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
